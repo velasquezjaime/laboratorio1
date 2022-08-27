@@ -9,7 +9,7 @@
 <body>
 
 <?php
-    echo "hola mundo";
+    echo "<h1>Hola mundo</h1>";
 ?>
 
 
